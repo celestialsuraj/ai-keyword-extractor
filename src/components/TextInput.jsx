@@ -41,7 +41,7 @@ const TextInput = ({extractKeywords}) => {
             color = 'white'
             marginTop = {4}
             width = '100%'
-            _hover = {{ bg: 'blue.600'}}
+            _hover = {{ bg: 'blue.500'}}
             onClick = {submitText}
         >
             Extract Keywords
